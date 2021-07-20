@@ -1,0 +1,155 @@
+@import 'fonts.css';
+
+body {
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 50px;
+}
+
+.info {
+    background-color: rgb(255, 255, 255, 0.7);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    width: 50vw;
+    border-radius: 7px;
+    margin-left: 25%;
+}
+
+.language {
+    position: relative;
+    margin-left: 90%;
+    margin-top: 2%;
+}
+
+.language img {
+    border-radius: 500px;
+    width: 7vw;
+    height: 7vh;
+}
+
+@media (orientation: landscape) {
+    body {
+        background-image: url('../assets/images/landscape.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -70%;
+    }
+
+    h1 {
+        font-family: 'Halimum', sans-serif;
+        color: white;
+        font-size: 100px;
+    }
+    
+    h2 {
+        font-family: 'Montserrat-Light', sans-serif;
+        color: white;
+        font-size: 50px;
+    }
+}
+
+@media (orientation: portrait) {
+    body {
+        background-image: url('../assets/images/portrait.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: 42% 0%;
+        background-size: cover;
+        font-size: 25px;
+    }
+
+    h1 {
+        font-family: 'Halimum', sans-serif;
+        color: black;
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-family: 'Montserrat-Light', sans-serif;
+        color: black;
+        font-size: 30px;
+    }
+}
+
+@media (orientation: landscape) {
+    body {
+        background-image: url('../assets/images/landscape-mix.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+    }
+}
+
+@media (orientation: landscape) and (min-width: 1400px) {
+
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -80%;
+    }
+
+    h1 {
+        font-family: 'Halimum', sans-serif;
+        color: white;
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-family: 'Montserrat-Light', sans-serif;
+        color: white;
+        font-size: 25px;
+    }
+}
+
+@media (orientation: landscape) and (max-width: 1399px) {
+
+    body {
+        background-image: url('../assets/images/landscape.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        font-size: 40px;
+    }
+
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    h1 {
+        font-family: 'Halimum', sans-serif;
+        color: white;
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-family: 'Montserrat-Light', sans-serif;
+        color: white;
+        font-size: 30px;
+    }
+}
+
+@media (orientation: landscape) and (max-width: 813px) {
+
+    h1 {
+        font-size: 30px;
+    }
+    
+    h2 {
+        font-size: 15px;
+    }
+}
