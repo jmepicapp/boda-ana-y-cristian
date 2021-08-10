@@ -2,34 +2,25 @@ BEGIN:VCALENDAR
 PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-METHOD:REQUEST
+METHOD:CANCEL
 BEGIN:VEVENT
-DTSTART:20210911T170000Z
+DTSTART:20210911T163000Z
 DTEND:20210912T000000Z
-DTSTAMP:20210721T215517Z
+DTSTAMP:20210810T153118Z
 ORGANIZER;CN=Boda Ana y Cristian:mailto:71oiu463r03fr020ddp8bbac44@group.ca
  lendar.google.com
 UID:1g6e3la0r4dmi5vaie9hqpe9od@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=josepaguero92@gmail.com;X-NUM-GUESTS=0:mailto:josepaguero92@gmail.c
- om
-X-MICROSOFT-CDO-OWNERAPPTID:1101515386
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=josepa
+ guero92@gmail.com;X-NUM-GUESTS=0:mailto:josepaguero92@gmail.com
 CREATED:20210721T214039Z
 DESCRIPTION:<a href="http://anaycristian.es" id="ow2634" __is_owner="true">
- anaycristian.es</a>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
- ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la descripci
- ón.\n\nVisualice el evento en la URL https://calendar.google.com/calendar/e
- vent?action=VIEW&eid=MWc2ZTNsYTByNGRtaTV2YWllOWhxcGU5b2Qgam9zZXBhZ3Vlcm85Mk
- Bt&tok=NTIjNzFvaXU0NjNyMDNmcjAyMGRkcDhiYmFjNDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xl
- LmNvbWM0YWVkZjk4YTBiNTQ1OWNlNWMyNTk1NjUxNTdhODVkM2ZmZWY4YWY&ctz=Africa%2FCe
- uta&hl=es&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
- ~:~:~:~:~:~:~:~:~:~:~::~:~::-
-LAST-MODIFIED:20210721T215517Z
+ anaycristian.es</a>
+LAST-MODIFIED:20210810T153118Z
 LOCATION:Hacienda S'cultura\, Ctra. Palma del Río\, Km 6.8\, 14005 Córdoba\
  , España
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Boda Ana y Cristian 👰 🤵 
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Boda Ana y Cristian 👰 🤵
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR

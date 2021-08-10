@@ -2,33 +2,24 @@ BEGIN:VCALENDAR
 PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
-METHOD:REQUEST
+METHOD:CANCEL
 BEGIN:VEVENT
-DTSTART:20210911T170000Z
+DTSTART:20210911T163000Z
 DTEND:20210912T000000Z
-DTSTAMP:20210722T101658Z
+DTSTAMP:20210810T153529Z
 ORGANIZER;CN=Boda Ana y Cristian:mailto:71oiu463r03fr020ddp8bbac44@group.ca
  lendar.google.com
 UID:7579keps1fd96nelbeci0oqj49@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
- TRUE;CN=josepaguero92@gmail.com;X-NUM-GUESTS=0:mailto:josepaguero92@gmail.c
- om
-X-MICROSOFT-CDO-OWNERAPPTID:1102399432
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=josepa
+ guero92@gmail.com;X-NUM-GUESTS=0:mailto:josepaguero92@gmail.com
 CREATED:20210722T101657Z
-DESCRIPTION:anaycristian.es\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
- ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nNo edites esta sección de la d
- escripción.\n\nVisualice el evento en la URL https://calendar.google.com/ca
- lendar/event?action=VIEW&eid=NzU3OWtlcHMxZmQ5Nm5lbGJlY2kwb3FqNDkgam9zZXBhZ3
- Vlcm85MkBt&tok=NTIjNzFvaXU0NjNyMDNmcjAyMGRkcDhiYmFjNDRAZ3JvdXAuY2FsZW5kYXIu
- Z29vZ2xlLmNvbWM5YmFhMmU2YTc4Y2ZjMDkwZDY2YWY0ZjA0MDU0NDhmMjdlODM0Y2U&ctz=Afr
- ica%2FCeuta&hl=es&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
- ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
-LAST-MODIFIED:20210722T101657Z
+DESCRIPTION:anaycristian.es
+LAST-MODIFIED:20210810T153529Z
 LOCATION:Hacienda S'cultura\, Ctra. Palma del Río\, Km 6.8\, 14005 Córdoba\
  , España
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Nunta Ana și Cristian 👰 🤵 
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:Nunta Ana și Cristian 👰 🤵
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
