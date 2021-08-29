@@ -7,14 +7,11 @@ BEGIN:VEVENT
 DTSTART:20210911T163000Z
 DTEND:20210912T000000Z
 DTSTAMP:20210810T153118Z
-ORGANIZER;CN=Boda Ana y Cristian:mailto:71oiu463r03fr020ddp8bbac44@group.ca
- lendar.google.com
 UID:1g6e3la0r4dmi5vaie9hqpe9od@google.com
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=josepa
  guero92@gmail.com;X-NUM-GUESTS=0:mailto:josepaguero92@gmail.com
 CREATED:20210721T214039Z
-DESCRIPTION:<a href="http://anaycristian.es" id="ow2634" __is_owner="true">
- anaycristian.es</a>
+DESCRIPTION: anaycristian.es
 LAST-MODIFIED:20210810T153118Z
 LOCATION:Hacienda S'cultura\, Ctra. Palma del Río\, Km 6.8\, 14005 Córdoba\
  , España
