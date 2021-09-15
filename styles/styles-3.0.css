@@ -17,7 +17,7 @@ h1, h2 {
     background-color: rgb(255, 255, 255, 0.7);
     width: 52vw;
     border-radius: 7px;
-    margin: -10% 0% 5% 25%;
+    margin: 0% 0% 5% 25%;
     padding: 2% 2% 2% 2%;
     -webkit-transform: translate3d(0,0,0);
     z-index: 999;}
